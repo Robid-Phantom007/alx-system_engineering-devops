@@ -8,7 +8,9 @@ This Project i learnt about
 * How to kill a process
 * What is a signal
 * What are the 2 signals that cannot be ignored
-using the following commands
+
+Learning how to use the following commands
+
 * ps
 * pgrep
 * pkill
