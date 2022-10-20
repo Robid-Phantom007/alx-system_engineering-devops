@@ -1,4 +1,4 @@
-# Networking basics :thumps_up:
+# Networking basics
 Project on the basics of networking by learning the following:
 
 ### OSI Model
