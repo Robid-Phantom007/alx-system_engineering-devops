@@ -10,7 +10,7 @@ Project to learn server configuration managementusing **Puppet** Obviously writi
 * Your Puppet manifests first line must be a comment explaining what the Puppet manifest is about
 * Your Puppet manifests files must end with the extension .pp
 
-## Note on Versioning :open_eyes:
+## Note on Versioning
 * Install puppet
 * Install puppet-lint
 
