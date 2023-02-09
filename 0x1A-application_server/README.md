@@ -35,5 +35,5 @@ What you should learn from this project:
 
 ---
 
-## Author
-* **Jhoan Stiven Zamora Caicedo** - [jzamora5](https://github.com/jzamora5)
+## Author 
+* **Dibor Solomon** - [Robid-Phantom007](https://github.com/Robid-Phantom007)
